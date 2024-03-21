@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/s23380426@unn.global/5_para/build",
+  "command": "/usr/bin/g++-12    -std=c++17 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/s23380426@unn.global/5_para/main.cpp",
+  "file": "/home/s23380426@unn.global/5_para/main.cpp"
+},
+{
+  "directory": "/home/s23380426@unn.global/5_para/build",
+  "command": "/usr/bin/g++-12    -std=c++17 -g -o CMakeFiles/main.dir/realisation.cpp.o -c /home/s23380426@unn.global/5_para/realisation.cpp",
+  "file": "/home/s23380426@unn.global/5_para/realisation.cpp"
+},
+{
+  "directory": "/home/s23380426@unn.global/5_para/build",
+  "command": "/usr/bin/g++-12    -std=c++17 -g -o CMakeFiles/main.dir/eater.cpp.o -c /home/s23380426@unn.global/5_para/eater.cpp",
+  "file": "/home/s23380426@unn.global/5_para/eater.cpp"
+}
+]
